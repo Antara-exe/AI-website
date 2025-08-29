@@ -1,22 +1,24 @@
-# AI-Website 🌐
-An interactive AI-powered website to check symptoms.
 
-## ✨ Features
-- Multi-language support
-- Interactive maps with hidden spots
-- Culture & language guides
+## MediCare
+MediCare is a healthcare web application designed to make medical assistance more accessible and convenient. It helps users check symptoms, get first aid guidance, and locate nearby hospitals instantly.
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript
+##  Features
+SYMPTOMS CHECKER - Enter your symptoms and get AI-powered health suggations.
+FIRST AID GUIDE - Step-by-step instructions for common emergencies.
+NEARBY HOSPITALS - Find the nearest hospitals with maps and contact details.
+
+##  Tech Stack
+- HTML, CSS, JavaScript.
+- Google Maps API.
 - GitHub Pages for hosting
 
-## 🚀 Live Demo
-[Click here to view](https://username.github.io/AI-website)
+##  Live Demo
+[Click here to view](https://youtu.be/PxaEPEm8Tis?si=YgeMRndF2KbpCheY)
 
-## 📦 Installation
-1. Clone the repo: `git clone <repo-url>`
-2. Open in VS Code
-3. Run `index.html` in browser
+## Future Enhancements
+ Add AI Chatbot for mental advice.
+ Multi-language support.
+ Mindfullness Exerciese.
+ Therapists via chat/video.
+ Emotional tone detection.
 
-## 📷 Preview
-![Screenshot](screenshot.png)
